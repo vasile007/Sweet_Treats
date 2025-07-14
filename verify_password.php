@@ -1,0 +1,3 @@
+$stmt = $conn->prepare("SELECT password_hash FROM admins WHERE email = ?");
+...
+password_verify($password, $row['password_hash']);
