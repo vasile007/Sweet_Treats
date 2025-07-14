@@ -1,4 +1,4 @@
-# Sweet_Treats
+# Sweet Treats
 
 **Sweet_Treats** is a bakery web application developed as part of a university project. This project demonstrates skills in PHP, MySQL, HTML, CSS, and secure web development practices.
 
