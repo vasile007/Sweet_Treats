@@ -50,7 +50,7 @@ Sweet_Treats is a bakery website designed to provide users with a seamless exper
 
 1. Clone the repository:
 
-```bash
+
 git clone https://github.com/vasile007/Sweet_Treats.git
 
 
