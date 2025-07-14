@@ -24,7 +24,7 @@ git clone https://github.com/vasile007/Sweet_Treats.git
 5. Place the project folder inside your XAMPP `htdocs` directory.
 
 6. Open your browser and go to:
-http://localhost/Sweet_Treats/
+http://localhost/Sweet_Treats_VASI/
 
 ---
 
@@ -32,6 +32,12 @@ http://localhost/Sweet_Treats/
 
 - Passwords are securely hashed using PHP’s `password_hash` function.
 - User inputs are sanitized to protect against SQL injection and Cross-Site Scripting (XSS) attacks.
+- ## Configuration
+
+Please update the `config.php` file with your local database credentials before running the project.
+
+Make sure **NOT** to commit sensitive information like passwords or private keys.
+
 
 ---
 
